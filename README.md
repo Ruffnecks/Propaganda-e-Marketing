@@ -28,4 +28,4 @@ Aplique propaganda e marketing em sua empresa com total qualidade e utilidade! N
 
 Não deixe de conhecer nossos serviços e nossas condições!
 
-Acesse o site para saber mais informações.
+Acesse o site para saber mais informações. <a href="http://www.propaganda-e-marketing.org/">Propaganda e Marketing</a>
